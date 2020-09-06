@@ -1,4 +1,4 @@
-title: 管沪楠的个人网站-guanhn's personal website
+title: 管沪楠的个人网站-guan's personal website
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: 管沪楠
-  tagline: undergraduate major in nuclear physics
+  tagline: an undergraduate major in nuclear physics
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
